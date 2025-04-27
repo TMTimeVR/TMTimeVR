@@ -31,7 +31,7 @@ Here's all my stuff I have to pay for:
 
 - 12€ for PlayFab (monthly)
 
-- 11€ My VPS (for websites other misc projetcs,monthly)
+- 11€ My VPS (for websites other misc projetcs, monthly)
 
 - ~100€ for commisions and other misc stuff (yearly)
 
