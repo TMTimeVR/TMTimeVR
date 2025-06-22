@@ -23,20 +23,4 @@ Here are some ideas to get you started:
 
 ## Donations
 
-- Another fun fact: I'm broke and need money to fund my projetcs.
-
-Here's all my stuff I have to pay for:
-
-- 190€ for multiplayer servers (yearly right now)
-
-- 12€ for PlayFab (monthly)
-
-- 11€ My VPS (for websites other misc projetcs, monthly)
-
-- ~100€ for commisions and other misc stuff (yearly)
-
-# That adds up to:
-
-**566€** (yearly)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z41DBTCG)
