@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi
 
 I'm TMTimeVR (aka TMTime), a student from Armenia trying to achieve his dreams. I make games, animations and projetcs that get abandoned after a month.
 
 - Fun fact: I suck at coding
 - I am currently learning C#
-- How to contact me: [The support on my Discord](https://discord.gg/dNzHhASUX7)
+- How to contact me: admin@tmtime.dev or tmtimevr on Discord
 
 <!--
 **TMTimeVR/TMTimeVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
