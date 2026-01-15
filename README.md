@@ -1,8 +1,7 @@
 ## Hi
 
-I'm TMTimeVR (aka TMTime), a student from Armenia trying to achieve his dreams. I make games, animations and projetcs that get abandoned after a month.
+I'm TMTime. I make games, animations and projetcs that get abandoned after a month.
 
-- Fun fact: I suck at coding
 - I am currently learning C#
 - How to contact me: admin@tmtime.dev or tmtimevr on Discord
 
