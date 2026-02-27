@@ -3,7 +3,7 @@
 I'm TMTime. I make games, animations and projetcs that get abandoned after a month.
 
 - I am currently learning C#
-- How to contact me: contact@tmtime.dev or tmtimevr on Discord
+- How do you create actually good buoyancy physics using Crest 5?
 
 <!--
 **TMTimeVR/TMTimeVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
