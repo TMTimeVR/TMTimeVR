@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## Donations
 
-[Patreon](https://www.patreon.com/SupportTMTime)
+[Patreon](https://www.patreon.com/SupportTMTime) [!][https://ko-fi.com/tmtime](https://ko-fi.com/tmtime)
