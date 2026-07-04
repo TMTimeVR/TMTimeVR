@@ -32,7 +32,7 @@ https://tmtime.dev/
 
 ### About AI
 
-A lot of people are quite binary on this topic. Either you hate Ai or you love it and think it will be the future.
+A lot of people are quite binary on this topic. Either you hate AI or you love it and think it will be the future.
 
 I think it's a useful tool. If you want to learn coding, it is a great tool when you use it correctly.
 
