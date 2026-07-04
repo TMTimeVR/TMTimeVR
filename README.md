@@ -38,4 +38,4 @@ I think it's a useful tool. If you want to learn coding, it is a great tool when
 
 AI shouldn't do all of the work by itself. It should assist you with boring tasks, like a Roomba.
 
-#### If I use AI for something, I will tell you that.
+#### If I use AI for something, I will tell you.
