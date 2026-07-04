@@ -37,3 +37,5 @@ A lot of people are quite binary on this topic. Either you hate AI or you love i
 I think it's a useful tool. If you want to learn coding, it is a great tool when you use it correctly.
 
 AI shouldn't do all of the work by itself. It should assist you with boring tasks, like a Roomba.
+
+#### If I use AI for something, I will tell you that.
