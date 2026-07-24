@@ -42,3 +42,6 @@ A good example is motion capture. There were movies that only used motion captur
 The same thing could happen with AI. Maybe. I can't look into the future.
 
 #### If I use AI for something, I will tell you.
+
+## guess I'll just jump onto this trend
+[![My Skills](https://skillicons.dev/icons?i=cs,debian)](https://skillicons.dev)
